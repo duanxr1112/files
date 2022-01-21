@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T08:32:13.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="9zCmVsgjxMynNlFtR9do" version="16.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:42:52.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="ghcCnWI3CvdgYaIo0oli" version="16.4.2" type="github" pages="7">
   <diagram name="Page-4" id="sqei2sjBhDt0C4rQTfZp">
-    <mxGraphModel dx="2476" dy="1094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2956" dy="1094" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="oEgaGady61QcVFnmsF-E-0" />
         <mxCell id="oEgaGady61QcVFnmsF-E-1" parent="oEgaGady61QcVFnmsF-E-0" />
@@ -36,13 +36,13 @@
             <mxPoint x="1010" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oEgaGady61QcVFnmsF-E-13" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 24px;&quot;&gt;创建用户远程项目&lt;br style=&quot;font-size: 24px;&quot;&gt;设置项目权限&lt;br style=&quot;font-size: 24px;&quot;&gt;(私有、公开)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
+        <mxCell id="oEgaGady61QcVFnmsF-E-13" value="创建远程仓库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
           <mxGeometry x="890" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oEgaGady61QcVFnmsF-E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" source="oEgaGady61QcVFnmsF-E-15" target="oEgaGady61QcVFnmsF-E-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oEgaGady61QcVFnmsF-E-15" value="本地仓库&lt;br style=&quot;font-size: 24px;&quot;&gt;与远程仓库同步push" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
+        <mxCell id="oEgaGady61QcVFnmsF-E-15" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
           <mxGeometry x="1260" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oEgaGady61QcVFnmsF-E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" source="oEgaGady61QcVFnmsF-E-17" target="oEgaGady61QcVFnmsF-E-15" edge="1">
@@ -93,7 +93,7 @@
         <mxCell id="oEgaGady61QcVFnmsF-E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" source="oEgaGady61QcVFnmsF-E-32" target="oEgaGady61QcVFnmsF-E-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oEgaGady61QcVFnmsF-E-32" value="提交部分更新&lt;br style=&quot;font-size: 24px;&quot;&gt;与远程仓库同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
+        <mxCell id="oEgaGady61QcVFnmsF-E-32" value="同步" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
           <mxGeometry x="1080" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oEgaGady61QcVFnmsF-E-33" value="增加branch/tag" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
@@ -126,7 +126,7 @@
         <mxCell id="KncsTPhEQXp8c0r9L7UU-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;strokeWidth=3;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" source="KncsTPhEQXp8c0r9L7UU-18" target="oEgaGady61QcVFnmsF-E-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KncsTPhEQXp8c0r9L7UU-18" value="确认本地仓库&lt;br style=&quot;font-size: 24px;&quot;&gt;与远程仓库保持一致" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
+        <mxCell id="KncsTPhEQXp8c0r9L7UU-18" value="确认" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
           <mxGeometry x="890" y="675" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KncsTPhEQXp8c0r9L7UU-23" value="存在" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#1D3557;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
@@ -159,11 +159,20 @@
         <mxCell id="KncsTPhEQXp8c0r9L7UU-36" value="版本回滚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=24;strokeWidth=3;sketch=0;shadow=0;" parent="oEgaGady61QcVFnmsF-E-1" vertex="1">
           <mxGeometry x="533" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNUntbiiSq7H7VEPdR0A-0" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
-          <mxGeometry x="764" y="652" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="kNUntbiiSq7H7VEPdR0A-1" value="&lt;span&gt;根据commit id /tag /branch 获取指定版本&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
           <mxGeometry x="852" y="954" width="444" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="P4OS-YmO5TQrS5RtV9ZM-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;创建用户远程仓库&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;设置项目权限&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;(私有、公开)&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
+          <mxGeometry x="845" y="343" width="202" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="P4OS-YmO5TQrS5RtV9ZM-1" value="&lt;span&gt;本地仓库&lt;/span&gt;&lt;br&gt;&lt;span&gt;与远程仓库同步push&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
+          <mxGeometry x="1210" y="354" width="230" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P4OS-YmO5TQrS5RtV9ZM-3" value="&lt;span&gt;确认本地仓库&lt;/span&gt;&lt;br&gt;&lt;span&gt;与远程仓库保持一致&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
+          <mxGeometry x="833" y="750" width="226" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="P4OS-YmO5TQrS5RtV9ZM-5" value="&lt;span&gt;提交部分更新&lt;/span&gt;&lt;br&gt;&lt;span&gt;与远程仓库同步&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;shadow=0;fontSize=24;" vertex="1" parent="oEgaGady61QcVFnmsF-E-1">
+          <mxGeometry x="1057" y="610" width="178" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
